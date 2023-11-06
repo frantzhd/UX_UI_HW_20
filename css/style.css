@@ -1,0 +1,17 @@
+.nav-item{
+    justify-content: center;
+    align-content: center;
+}
+#hero{
+  background-image: url("../images/dol_hero.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 110vh;
+  min-height: 800px;
+}
+.jumbotron{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
