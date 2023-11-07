@@ -15,3 +15,48 @@
   justify-content: center;
   height: 100%;
 }
+.content_img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-top: auto;
+  width: 50%;
+  justify-content: center;
+}
+h1{
+  text-align: center;
+  padding-bottom: 3%;
+}
+p{
+  margin: auto;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+.desktopdisplay{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 200px;
+  margin-top: auto;
+  width: 50%;
+  align-content: center;
+}
+.columnImg{
+  flex: 33.33%;
+  padding: 5px;
+}
+.row_mobileDisplay{
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right:15% ;
+  padding-left: 15%;
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5px;
+}
